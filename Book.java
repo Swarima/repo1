@@ -24,11 +24,8 @@ public class Book
 
 			this.author=author
 		}
-	`public void test()
+	public void test()
 		{
-		
-}
-	public void testConflict()
-		{
-		}
+		System.out.println("Conflict");
+}	
 }
